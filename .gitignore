@@ -1,0 +1,5 @@
+ECHO is on.
+Scripts/
+Lib/
+Include/
+pyvenv.cfg
